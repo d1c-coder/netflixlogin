@@ -1,0 +1,24 @@
+:root {
+  /* fonts */
+  --font-inter: Inter;
+  --font-segoe-ui: "Segoe UI";
+
+  /* font sizes */
+  --font-size-sm: 6px;
+  --font-size-base: 13px;
+  --font-size-lg: 14px;
+  --font-size-xl: 15px;
+  --font-size-2xl: 16px;
+
+  /* Colors */
+  --color-gray-100: #999;
+  --color-gray-200: #8c8c8c;
+  --color-gray-300: #737373;
+  --color-gray-400: #333;
+  --color-gray-500: rgba(0, 0, 0, 0.75);
+  --color-black: #000;
+  --color-white: #fff;
+
+  /* border radiuses */
+  --br-md: 4px;
+}
